@@ -266,6 +266,7 @@ footer {
 
 .cesbidMemberName {
   color: #fff;
+  font-size: 1rem;
 }
 
 .cesbidMemberName:hover {
@@ -296,4 +297,15 @@ a:hover {
 
 .text-primary {
   color: #600e08 !important;
+}
+
+.cesbidProfileImgBox {
+  height: 208px !important;
+  width: 190px !important;
+  overflow: hidden !important;
+}
+
+.cesbidImage {
+  height: auto !important;
+  width: 100% !important;
 }
